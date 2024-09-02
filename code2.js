@@ -910,7 +910,7 @@ if (true)
 }
 
 
-};gdjs.Game_32SceneCode.userFunc0x885b88 = function GDJSInlineCode(runtimeScene) {
+};gdjs.Game_32SceneCode.userFunc0x9bc9a0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // Function to shuffle characters in a string
 function shuffleString(str) {
@@ -1028,7 +1028,7 @@ let isConditionTrue_0 = false;
 {
 
 
-gdjs.Game_32SceneCode.userFunc0x885b88(runtimeScene);
+gdjs.Game_32SceneCode.userFunc0x9bc9a0(runtimeScene);
 
 }
 
@@ -1542,7 +1542,7 @@ gdjs.Game_32SceneCode.eventsList36(runtimeScene);} //End of subevents
 }
 
 
-};gdjs.Game_32SceneCode.userFunc0x938bc8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.Game_32SceneCode.userFunc0xbff660 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // Access the 'level' variable
 const level = runtimeScene.getVariables().get("level");
@@ -1698,7 +1698,7 @@ if (isConditionTrue_0) {
 {
 
 
-gdjs.Game_32SceneCode.userFunc0x938bc8(runtimeScene);
+gdjs.Game_32SceneCode.userFunc0xbff660(runtimeScene);
 
 }
 
@@ -2867,7 +2867,6 @@ gdjs.Game_32SceneCode.GDRedExplosionObjects9.length = 0;
 }{for(var i = 0, len = gdjs.Game_32SceneCode.GDRedExplosionObjects9.length ;i < len;++i) {
     gdjs.Game_32SceneCode.GDRedExplosionObjects9[i].setLayer("Foreground");
 }
-}{gdjs.evtTools.sound.playSound(runtimeScene, "firework.mp3", false, 50, 1);
 }}
 
 }
