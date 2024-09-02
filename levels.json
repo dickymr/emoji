@@ -1,0 +1,86 @@
+[
+    {
+        "no": 1,
+        "category": "Player",
+        "emojis": ["headphones", "call_me_hand", "flag-br"],
+        "name": "Neymar Jr"
+    },
+    {
+        "no": 2,
+        "category": "Club",
+        "emojis": ["tokyo_tower", "fr"],
+        "name": "PSG"
+    },
+    {
+        "no": 3,
+        "category": "Player",
+        "emojis": ["turtle", "zap", "fr"],
+        "name": "Kylian Mbappé"
+    },
+    {
+        "no": 4,
+        "category": "Club",
+        "emojis": ["red_circle", "smiling_imp", "flag-england"],
+        "name": "Manchester United"
+    },
+    {
+        "no": 5,
+        "category": "Player",
+        "emojis": ["keycap_ten", "goat", "flag-ar"],
+        "name": "Lionel Messi"
+    },
+    {
+        "no": 6,
+        "category": "Club",
+        "emojis": ["yellow_heart", "black_heart", "de"],
+        "name": "Borussia Dortmund"
+    },
+    {
+        "no": 7,
+        "category": "Club",
+        "emojis": ["crown", "white_circle", "es"],
+        "name": "Real Madrid"
+    },
+    {
+        "no": 8,
+        "category": "Player",
+        "emojis": ["seven", "muscle", "flag-pt"],
+        "name": "Cristiano Ronaldo"
+    },
+    {
+        "no": 9,
+        "category": "Player",
+        "emojis": ["chipmunk", "grimacing", "flag-uy"],
+        "name": "Luis Suárez"
+    },
+    {
+        "no": 10,
+        "category": "Player",
+        "emojis": ["man_in_lotus_position", "goal_net", "soccer"],
+        "name": "Erling Haaland"
+    },
+    {
+        "no": 11,
+        "category": "Club",
+        "emojis": ["orange_heart", "red_circle", "wolf"],
+        "name": "AS Roma"
+    },
+    {
+        "no": 12,
+        "category": "Player",
+        "emojis": ["martial_arts_uniform", "nose", "lion_face"],
+        "name": "Zlatan Ibrahimovic"
+    },
+	{
+        "no": 13,
+        "category": "Club",
+        "emojis": ["large_blue_circle", "boat", "cityscape"],
+        "name": "Manchester City"
+    },
+	{
+        "no": 14,
+        "category": "Player",
+        "emojis": ["wave", "keycap_ten", "flag-ar"],
+        "name": "Diego Maradona"
+    }
+]
